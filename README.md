@@ -1,5 +1,5 @@
 # Complete Plotly Visualization Guide
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMH8nhsOKoWW64qyoKRzdXkAgdV9rBdJG0egV8KV1gWyotk1ElpVigpe2asdO-5TrSmI&usqp=CAU)
 ## Setup and Data Loading
 ```python
 # Install required packages
